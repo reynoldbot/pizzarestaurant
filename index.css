@@ -1,0 +1,42 @@
+header {
+  border : 10px dotted yellow;
+}
+
+body {
+  color : orange;
+  background-color : blue;
+  border : 12px dashed red;
+  font-family : sans-serif;
+}
+
+p {
+  /* Hell yeah wut wut*/
+  border : 2px dotted lightgreen;
+  padding : 10px;
+  margin : 5px;
+  background-color : purple;
+}
+
+main {
+  background-color : green;
+  
+}
+
+a {
+  color : pink;
+}
+
+table {
+  background-color : white;
+  color : darkgreen;
+  border : 5px dashed darkred;
+  padding : 10px
+}
+
+#first {
+  background-color : #111;
+}
+
+.first {
+  background-color : #333;
+}
